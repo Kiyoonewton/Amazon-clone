@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.95b55a7a.css",
+    "main.js": "/static/js/main.52ebd7db.js",
+    "static/media/Amazon7.jpg": "/static/media/Amazon7.ffd9d5eadbe4fba714c1.jpg",
+    "static/media/Amazon2.jpg": "/static/media/Amazon2.37e38a1c83060cf8ec40.jpg",
+    "static/media/Amazon9.jpg": "/static/media/Amazon9.b842b1e4bb0cc75ce652.jpg",
+    "static/media/Amazon3.jpg": "/static/media/Amazon3.f5a362bda8d8db6e0e7e.jpg",
+    "static/media/Amazon4.jpg": "/static/media/Amazon4.fd4fa69cb6b187b8de7d.jpg",
+    "static/media/Amazon6.jpg": "/static/media/Amazon6.34433e080cdca922df3c.jpg",
+    "static/media/Amazon10.png": "/static/media/Amazon10.88aafd268ea2103684f7.png",
+    "static/media/Amazon5.jpg": "/static/media/Amazon5.497f635fbba7679a2e2e.jpg",
+    "static/media/Amazon.png": "/static/media/Amazon.de51da8124392581d4cc.png",
+    "static/media/Amazon8.jpg": "/static/media/Amazon8.a8ce445c931a9404aec0.jpg",
+    "index.html": "/index.html",
+    "main.95b55a7a.css.map": "/static/css/main.95b55a7a.css.map",
+    "main.52ebd7db.js.map": "/static/js/main.52ebd7db.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95b55a7a.css",
+    "static/js/main.52ebd7db.js"
+  ]
+}
